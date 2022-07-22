@@ -3,7 +3,8 @@
 
 ## About MacPaw test task
 
-all test tasks is done:
+it was a very interesting challenge to complete all the tasks [MacPaw](https://macpaw.com/careers/back-end-intern-2022)
+
 
 
 ## Quick start
