@@ -20,7 +20,7 @@ all test tasks is done:
 
 ## Checks the tasks
 
-1. Go to the route / (for default  root is 0.0.0.0/)
+1. Go to the route / 
 2. Look to the  [migration create_near_earth_objects_table](https://github.com/igotiss/MacPaw_test_task/blob/master/database/migrations/2022_07_22_125215_create_near_earth_objects_table.php)
 3. Go to the route /neo/hazardous
 4. Go to the route /neo/fastest?hazardous=true and /neo/fastest?hazardous=false
