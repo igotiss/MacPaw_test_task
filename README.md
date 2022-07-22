@@ -27,4 +27,5 @@ all test tasks is done:
 5. Go to the route /nasa/get
 
 
-Developed by [Igor Tyshchenko](mailto:igotiss@gmail.com)
+## Developed by
+ [Igor Tyshchenko](mailto:igotiss@gmail.com)
